@@ -8,8 +8,8 @@ Designed in Adobe Illustrator and rendered using Adobe Dimension.
 
 ## Redesign Renders
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
+| | |
+|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="My take on a normal OMNY card" src="./Renders/OMNY_render_normal.png">  |  <img width="1604" alt="My take on a student OMNY card" src="./Renders/OMNY_render_student.png">|
 |<img width="1604" alt="My take on a senior citizen OMNY card" src="./Renders/OMNY_render_senior.png">  |  <img width="1604" alt="My take on a testing/ MTA OMNY card" src="./Renders/OMNY_render_testing.png">|
 
