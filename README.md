@@ -10,3 +10,10 @@ The MTA did a (in my opinion) terrible job at designing the OMNY cards so I deci
 ![My take on a student OMNY card](./Renders/OMNY_render_student.png)
 ![My take on a senior citizen OMNY card](./Renders/OMNY_render_senior.png)
 ![My take on a testing/ MTA OMNY card](./Renders/OMNY_render_testing.png)
+
+## Inspiration
+
+Click on the images to go to their source
+
+[![OMNY card design by Pentagram](./Inspiration/../Renders/pentagram_OMNY_card.jpg)](https://www.pentagram.com/work/omny/story)
+[![The live subway map](./Inspiration/live_subway_map.png)](https://map.mta.info/#@40.7438616,-73.9915379,15.62z)
