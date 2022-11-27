@@ -13,11 +13,6 @@ Designed in Adobe Illustrator and rendered using Adobe Dimension.
 |<img width="1604" alt="My take on a normal OMNY card" src="./Renders/OMNY_render_normal.png">  |  <img width="1604" alt="My take on a student OMNY card" src="./Renders/OMNY_render_student.png">|
 |<img width="1604" alt="My take on a senior citizen OMNY card" src="./Renders/OMNY_render_senior.png">  |  <img width="1604" alt="My take on a testing/ MTA OMNY card" src="./Renders/OMNY_render_testing.png">|
 
-![My take on a normal OMNY card](./Renders/OMNY_render_normal.png)
-![My take on a student OMNY card](./Renders/OMNY_render_student.png)
-![My take on a senior citizen OMNY card](./Renders/OMNY_render_senior.png)
-![My take on a testing/ MTA OMNY card](./Renders/OMNY_render_testing.png)
-
 ## Inspiration
 
 Click on the images to go to their source
