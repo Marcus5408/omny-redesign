@@ -15,5 +15,5 @@ The MTA did a (in my opinion) terrible job at designing the OMNY cards so I deci
 
 Click on the images to go to their source
 
-[![OMNY card design by Pentagram](./Inspiration/../Renders/pentagram_OMNY_card.jpg)](https://www.pentagram.com/work/omny/story)
+[![OMNY card design by Pentagram](./Inspiration/pentagram_OMNY_card.jpg)](https://www.pentagram.com/work/omny/story)
 [![The live subway map](./Inspiration/live_subway_map.png)](https://map.mta.info/#@40.7438616,-73.9915379,15.62z)
