@@ -4,6 +4,8 @@ The MTA did a (in my opinion) terrible job at designing the OMNY cards so I deci
 
 Designed in Adobe Illustrator and rendered using Adobe Dimension.
 
+I actually originally did this in August of 2022, bu I guess I just forgot about it until now.
+
 ---
 
 ## Redesign Renders
